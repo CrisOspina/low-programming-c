@@ -1,0 +1,4 @@
+main.c
+1) export CFILE=main.c
+2) gcc -E $CFILE > c
+3) tail c
