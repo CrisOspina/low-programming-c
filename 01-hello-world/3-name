@@ -1,0 +1,4 @@
+main.c
+1) export CFILE=main.c
+2) gcc -o cisfun $CFILE
+3) cat -v cisfun | head
