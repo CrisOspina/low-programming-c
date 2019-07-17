@@ -1,0 +1,4 @@
+main.c
+1) export CFILE=main.c
+2) gcc -c -o main.o $CFILE
+3) cat -v main.o | head
