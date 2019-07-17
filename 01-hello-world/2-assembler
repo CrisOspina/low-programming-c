@@ -1,0 +1,3 @@
+main.c
+1) gcc -S main.c
+2) cat main.s
